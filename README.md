@@ -29,4 +29,5 @@ Algorithms
 Django
 CSS
 HTML
+
 🚀 I'm passionate about coding and love working on project-based tasks. An enthusiastic learner, I'm always eager to explore new technologies and expand my skill set.
