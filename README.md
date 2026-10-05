@@ -1,33 +1,14 @@
-## Hi 👋
+Cloud & Platform Engineer at Oneiroi Systems.
 
-<!--
-**Tanisha184/Tanisha184** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and operate production web platforms across **AWS, Cloudflare, and GitHub Actions**, working with infrastructure, CI/CD, edge hosting, object storage/CDN, secrets, and production troubleshooting.
 
+**AWS:** Terraform, VPC, IAM, EC2, ECS, Lambda, S3, RDS
+**Cloudflare:** Workers, R2, D1, Pages, Email Routing
 
-Here are some ideas to get you started:
+I also build LLM-integrated business pipelines with rules-driven model routing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-I'm Tanisha!
+BSc Computer Science, BRAC University. Undergraduate thesis in network intrusion detection.
 
-🎓 I'm currently a Computer Science student at BRAC University.
+Open to remote cloud engineering and cloud operations roles.
 
-💻 Proficient in:
-
-Python
-Data Structures
-Algorithms
-🌐 Also familiar with:
-
-Django
-CSS
-HTML
-
-🚀 I'm passionate about coding and love working on project-based tasks. An enthusiastic learner, I'm always eager to explore new technologies and expand my skill set.
+**Engineering notes:** https://tanisha184.github.io
